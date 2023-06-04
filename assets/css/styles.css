@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #ee4d2d;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Common */
+.container {
+    width: 1200px;
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+}
